@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{D87D79CC-D626-4B95-8D8A-494CC2D9C97C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI", "PI\PI.csproj", "{61862E4E-C28B-4FAC-970E-505C564ABE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{6F4050E5-D34D-4435-9291-B6201AD43F4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D87D79CC-D626-4B95-8D8A-494CC2D9C97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D87D79CC-D626-4B95-8D8A-494CC2D9C97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D87D79CC-D626-4B95-8D8A-494CC2D9C97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61862E4E-C28B-4FAC-970E-505C564ABE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61862E4E-C28B-4FAC-970E-505C564ABE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61862E4E-C28B-4FAC-970E-505C564ABE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61862E4E-C28B-4FAC-970E-505C564ABE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4050E5-D34D-4435-9291-B6201AD43F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4050E5-D34D-4435-9291-B6201AD43F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4050E5-D34D-4435-9291-B6201AD43F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4050E5-D34D-4435-9291-B6201AD43F4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
