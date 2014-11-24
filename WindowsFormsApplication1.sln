@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{D87D79CC-D626-4B95-8D8A-494CC2D9C97C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01_01_1", "WindowsFormsApplication1\HW01_01_1.csproj", "{D87D79CC-D626-4B95-8D8A-494CC2D9C97C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI", "PI\PI.csproj", "{61862E4E-C28B-4FAC-970E-505C564ABE69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01_01_3", "PI\HW01_01_3.csproj", "{61862E4E-C28B-4FAC-970E-505C564ABE69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{6F4050E5-D34D-4435-9291-B6201AD43F4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01_01_4", "String\HW01_01_4.csproj", "{6F4050E5-D34D-4435-9291-B6201AD43F4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalc", "ConsoleCalc\ConsoleCalc.csproj", "{9AF4BF95-F999-4B60-BEBF-8C3D5D7F8C9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01_02_1", "ConsoleCalc\HW01_02_1.csproj", "{9AF4BF95-F999-4B60-BEBF-8C3D5D7F8C9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberRange", "NumberRange\NumberRange.csproj", "{7716E7DD-6902-4B9D-86D8-E8DB9121A796}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01_02_2", "NumberRange\HW01_02_2.csproj", "{7716E7DD-6902-4B9D-86D8-E8DB9121A796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsEven", "IsEven\IsEven.csproj", "{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01_03_1", "IsEven\HW01_03_1.csproj", "{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01_03_2", "HW3_2\HW01_03_2.csproj", "{45AB3E06-F40E-4B43-830A-F3F04C415F5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AB3E06-F40E-4B43-830A-F3F04C415F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AB3E06-F40E-4B43-830A-F3F04C415F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AB3E06-F40E-4B43-830A-F3F04C415F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AB3E06-F40E-4B43-830A-F3F04C415F5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
