@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalc", "ConsoleCalc\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberRange", "NumberRange\NumberRange.csproj", "{7716E7DD-6902-4B9D-86D8-E8DB9121A796}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsEven", "IsEven\IsEven.csproj", "{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7716E7DD-6902-4B9D-86D8-E8DB9121A796}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7716E7DD-6902-4B9D-86D8-E8DB9121A796}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7716E7DD-6902-4B9D-86D8-E8DB9121A796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC510BB-4C89-4A88-8C03-C8B9DB0728FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
