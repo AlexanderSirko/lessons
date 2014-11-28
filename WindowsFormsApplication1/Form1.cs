@@ -24,42 +24,42 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("-128 to 127");
+            MessageBox.Show(sbyte.MinValue + " to " + sbyte.MaxValue);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("-32,768 to 32,767");
+            MessageBox.Show(short.MinValue + " to " + short.MaxValue);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("0 to 255");
+            MessageBox.Show(byte.MinValue+" to "+byte.MaxValue);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("0 to 65,535");
+            MessageBox.Show(ushort.MinValue + " to " + ushort.MaxValue);
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("-2,147,483,648 to 2,147,483,647");
+            MessageBox.Show(int.MinValue + " to " + int.MaxValue);
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("-0 to 4,294,967,295");
+            MessageBox.Show(uint.MinValue + " to " + uint.MaxValue);
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807");
+            MessageBox.Show(long.MinValue + " to " + long.MaxValue);
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("0 to 18,446,744,073,709,551,615");
+            MessageBox.Show(ulong.MinValue + " to " + ulong.MaxValue);
         }
     }
 }

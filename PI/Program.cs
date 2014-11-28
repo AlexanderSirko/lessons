@@ -12,7 +12,7 @@ namespace PI
         {
             double pi = 3.141592653;
             System.Console.WriteLine(pi);
-            double e = 2.7182818284590452;
+            decimal e = 2.7182818284590452M;
             System.Console.WriteLine(e);
         }
     }
