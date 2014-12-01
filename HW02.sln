@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW02_arrays_1", "HW02_arrays_1\HW02_arrays_1.csproj", "{125B4BB0-3BD8-4476-8915-80F1A9765C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW02_arrays_2", "HW02_arrays_2\HW02_arrays_2.csproj", "{B2B666AC-3F8A-4417-A1D9-A8D363D36B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW02_arrays_3", "HW02_arrays_3\HW02_arrays_3.csproj", "{9400749A-47B6-4343-B0E7-60D7A2AFF479}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{125B4BB0-3BD8-4476-8915-80F1A9765C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{125B4BB0-3BD8-4476-8915-80F1A9765C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{125B4BB0-3BD8-4476-8915-80F1A9765C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B666AC-3F8A-4417-A1D9-A8D363D36B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B666AC-3F8A-4417-A1D9-A8D363D36B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B666AC-3F8A-4417-A1D9-A8D363D36B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B666AC-3F8A-4417-A1D9-A8D363D36B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9400749A-47B6-4343-B0E7-60D7A2AFF479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9400749A-47B6-4343-B0E7-60D7A2AFF479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9400749A-47B6-4343-B0E7-60D7A2AFF479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9400749A-47B6-4343-B0E7-60D7A2AFF479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
