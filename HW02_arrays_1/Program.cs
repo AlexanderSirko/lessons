@@ -18,9 +18,22 @@ namespace HW02_arrays_1
             {
                 customArray[i] = rnd.Next(-100,100);
             }
-            System.Console.WriteLine("The maximum value of array is: " + customArray.Max());
-            System.Console.WriteLine("The minimum value of array is: " + customArray.Min());
-            System.Console.WriteLine("The average value of array is: " + customArray.Sum() / customArray.Length);
+            
+            //find max and min value
+
+            int minint = customArray[0];
+            int maxint = customArray[0];
+            int sum = 0;
+            foreach (int value in customArray) //calculating max, min and sum (for avg) in the single loop
+            {
+                if (value < minint) minint = value;
+                if (value > maxint) maxint = value;
+                sum += value;
+            }
+            
+            System.Console.WriteLine("The maximum value of array is: " + maxint);
+            System.Console.WriteLine("The minimum value of array is: " + minint);
+            System.Console.WriteLine("The average value of array is: " + sum / customArray.Length);
             for (int i = 0; i != (customArray.Length); i++)
             {
                 if (!IsEven(customArray[i]))
