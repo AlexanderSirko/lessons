@@ -108,8 +108,8 @@ namespace HW04_classes_02
                 values = Console.ReadLine().Split(new char[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries);
                 points.Add(new Point(double.Parse(values[0]), double.Parse(values[1])));
             }
-            Figure poly = new Figure(points[0],points[1],points[2]);
-            Console.WriteLine("\nperimetre = {0:f2}", poly.GetPerimetre());
+            Figure figure = new Figure(points[0],points[1],points[2]);
+            Console.WriteLine("\nperimetre = {0:f2}", figure.GetPerimetre());
         }
     }
 }
