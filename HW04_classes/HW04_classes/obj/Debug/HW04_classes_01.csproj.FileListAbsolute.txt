@@ -3,3 +3,4 @@ E:\Source\HW04_classes\HW04_classes\bin\Debug\HW04_classes.exe.config
 E:\Source\HW04_classes\HW04_classes\bin\Debug\HW04_classes.exe
 E:\Source\HW04_classes\HW04_classes\bin\Debug\HW04_classes.pdb
 E:\Source\HW04_classes\HW04_classes\obj\Debug\HW04_classes.pdb
+E:\Source\HW04_classes\HW04_classes\obj\Debug\HW04_classes_01.csprojResolveAssemblyReference.cache
